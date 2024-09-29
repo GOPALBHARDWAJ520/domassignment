@@ -1,0 +1,32 @@
+[
+    {
+        "studentName": "John Doe",
+        "studentID": "12345",
+        "emailID": "johndoe@example.com",
+        "contactNo": "1234567890"
+    },
+    {
+        "studentName": "Jane Doe",
+        "studentID": "67890",
+        "emailID": "janedoe@example.com",
+        "contactNo": "0987654321"
+    },
+    {
+        "studentName": "Bob Smith",
+        "studentID": "34567",
+        "emailID": "bobsmith@example.com",
+        "contactNo": "5555555555"
+    },
+    {
+        "studentName": "Alice Johnson",
+        "studentID": "90123",
+        "emailID": "alicejohnson@example.com",
+        "contactNo": "4444444444"
+    },
+    {
+        "studentName": "Mike Brown",
+        "studentID": "45678",
+        "emailID": "mikebrown@example.com",
+        "contactNo": "3333333333"
+    }
+]
