@@ -41,6 +41,7 @@ domassignment/
 ## 📸 Screenshots
 
 _Add screenshots here if needed to show the working UI._
+![image](https://github.com/user-attachments/assets/ad3d4056-1741-469b-8674-d5d817e1036e)
 
 ## ✍️ Author
 
